@@ -11,6 +11,7 @@ public class Bauyrzhan_Nurzhanov{
     public static void greeting(){
         String name;
         String city;
+        System.out.println("Durystadym");
         System.out.println("Welcome to Vacation Planner!");
         System.out.print("What is your name: "); name = scan.nextLine();
         System.out.print("Nice to meet you " + name + ", where are you travelling to? ");
